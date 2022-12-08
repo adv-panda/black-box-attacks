@@ -20,7 +20,7 @@ Purpose: Testing black-box attacks and defenses on diverse models
   | [HopSkipJump](https://arxiv.org/pdf/1904.02144.pdf) | Gradient Approximation  | max_iter=20 | 
   | [BoundaryAttack](https://arxiv.org/pdf/1712.04248.pdf) | Search-based | epsilon=0.01, max_iter=1000 | 
   
-  <img src="images/attack_type.png" width="40%" height="40%">  
+  <img src="images/attack_types.png" width="40%" height="40%">  
   
   ### ImageNet - Models with different complexity  
   | Model        | Top 1% Accuracy | Top 5% Accuracy | Model Size | Total Params | 
